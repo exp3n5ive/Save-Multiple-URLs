@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Save Multiple URLs",
+  "version": "1.0",
+  "description": "复制或导出当前窗口所有标签页的 URL",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
