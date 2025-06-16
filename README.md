@@ -28,7 +28,7 @@ Save Multiple URLs 是一个专为渗透测试人员、红队工程师、网络�
 > - 「Copy URLs」按钮：一键复制所有 URL 到剪贴板  
 > - 「Export to .txt」按钮：保存为文件到本地
 
-![img](https)
+![img](./img.png)
 
 ---
 
